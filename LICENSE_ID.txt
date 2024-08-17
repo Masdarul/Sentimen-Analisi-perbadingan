@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2024 MASDARUL RIZQI
+
+Dengan ini diberikan izin, secara gratis, kepada siapa pun yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait (selanjutnya disebut "Perangkat Lunak"), untuk berurusan dengan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, memberikan lisensi, dan/atau menjual salinan Perangkat Lunak, serta untuk mengizinkan orang-orang yang Perangkat Lunak ini disediakan kepadanya untuk melakukannya, dengan syarat-syarat sebagai berikut:
+
+Pernyataan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian substansial dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DIBERIKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK SECARA TEORITIS MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN JUAL, KELAYAKAN UNTUK TUJUAN TERTENTU, DAN TIDAK MELANGGAR HAK CIPTA. DALAM HAL APAPUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK AKAN BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KERUGIAN LAIN, BAIK DALAM TINDAKAN KONTRAK, DELIK, ATAU SEBAGAINYA, YANG TIMBUL DARI, DI LUAR, ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU PENANGANAN LAINNYA DALAM PERANGKAT LUNAK.
