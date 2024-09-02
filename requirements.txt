@@ -11,3 +11,4 @@ google-play-scraper
 tenacity
 textblob
 numpy
+openpyxl
